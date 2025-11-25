@@ -1,0 +1,24 @@
+# Environment
+venv/
+.env
+*.env
+
+# Data files (confidential HR datasets)
+data/
+*.xlsx
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
