@@ -197,3 +197,10 @@ Built with love at **AFI Tower, Praha** during the Škoda Auto & 42Prague Hackat
 *Škoda Auto × 42Prague Hackathon 2025 — Skill Growth Challenge*
 
 </div>
+
+
+---
+
+## License
+
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
